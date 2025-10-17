@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently a Python Developer in Megafon<br>⚡ Yuri, 25 y.o, based in Moscow
+🌱 Yuri, 25 y.o, based in Moscow
 
 
 # 💻 Tech Stack:
